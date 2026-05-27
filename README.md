@@ -109,31 +109,6 @@ obesity-behavioral-predictor/
 - Importância das features do modelo
 - Insights acionáveis para a equipe médica
 
----
-
-## 🚀 Como Rodar Localmente
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
-
-# 2. Instale as dependências
-pip install -r requirements.txt
-
-# 3. Rode a aplicação
-streamlit run app.py
-```
-
----
-
-## 🌐 Deploy no Streamlit Cloud
-
-1. Faça push de todos os arquivos para o GitHub
-2. Acesse [share.streamlit.io](https://share.streamlit.io)
-3. Conecte seu repositório
-4. Configure: `Main file path = app.py`
-5. Clique em **Deploy!**
 
 ---
 
